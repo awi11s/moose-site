@@ -8,13 +8,13 @@ const Home = () => {
     return (
         <div style={{ width: '100%' }}>
             <div className="top" style={{
-                paddingTop: '30%',
+                paddingTop: '20%',
                 justifyContent: 'flex-end',
                 paddingBottom: '30%',
                 // height: '30rem',
                 display: 'flex',
                 backgroundColor: '#fff7e5'}}>
-                <h1 style={{ fontSize: '4rem', padding: '3rem' }}>Michael Miller</h1>
+                <h1 style={{ fontSize: '4rem', padding: '4rem' }}>Michael Miller</h1>
             </div>
             <TreeImage />
             <div className="bottom" style={{
@@ -24,7 +24,7 @@ const Home = () => {
                 backgroundColor: '#C49966'}}>
                 <ReactPlayer 
                 url="https://www.youtube.com/watch?v=kD5wPS6_1qU" 
-                style={{  }}/>
+                style={{ maxWidth: '80%' }}/>
             </div>
         </div>
     )
