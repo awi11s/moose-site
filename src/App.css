@@ -1,5 +1,45 @@
-@import url('https://fonts.googleapis.com/css2?family=Ultra&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
 
-h1 {
-    font-family: 'Ultra', serif;
+@media screen and (max-width: 600px) {
+    h1 {
+        font-family: 'Caveat', cursive;
+        color: #C49966;
+        font-size: 2.6rem;
+        text-align: right;
+    }
+
+    h2 {
+        font-family: 'Caveat', cursive;
+        color: #fff;
+        font-size: 2rem;
+    
+    }
+
+    p {
+        font-family: 'Caveat', cursive;
+        color: #fff;
+        font-size: 1rem;
+    }
 }
+
+@media screen and (min-width: 600px) {
+    h1 {
+        font-family: 'Caveat', cursive;
+        color: #C49966;
+        font-size: 5rem;
+    }
+
+    h2 {
+        font-family: 'Caveat', cursive;
+        color: #fff;
+        font-size: 3.5rem;
+    
+    }
+
+    p {
+        font-family: 'Caveat', cursive;
+        color: #fff;
+        font-size: 2rem;
+    }
+}
+

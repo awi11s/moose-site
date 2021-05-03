@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { ReactComponent as TreeGraphic } from '../constants/Moose1.svg';
+import { ReactComponent as TreeGraphic } from '../constants/Moose7.svg';
 
 
 export default class TreeImage extends Component {
