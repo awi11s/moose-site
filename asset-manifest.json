@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/moose_site/static/css/main.bf494843.chunk.css",
-    "main.js": "/moose_site/static/js/main.a3f27cbb.chunk.js",
-    "main.js.map": "/moose_site/static/js/main.a3f27cbb.chunk.js.map",
-    "runtime-main.js": "/moose_site/static/js/runtime-main.cffbeba3.js",
-    "runtime-main.js.map": "/moose_site/static/js/runtime-main.cffbeba3.js.map",
-    "static/js/2.abeedeb9.chunk.js": "/moose_site/static/js/2.abeedeb9.chunk.js",
-    "static/js/2.abeedeb9.chunk.js.map": "/moose_site/static/js/2.abeedeb9.chunk.js.map",
-    "static/js/3.7dc7e8b9.chunk.js": "/moose_site/static/js/3.7dc7e8b9.chunk.js",
-    "static/js/3.7dc7e8b9.chunk.js.map": "/moose_site/static/js/3.7dc7e8b9.chunk.js.map",
-    "index.html": "/moose_site/index.html",
-    "static/css/main.bf494843.chunk.css.map": "/moose_site/static/css/main.bf494843.chunk.css.map",
-    "static/js/2.abeedeb9.chunk.js.LICENSE.txt": "/moose_site/static/js/2.abeedeb9.chunk.js.LICENSE.txt",
-    "static/media/Moose7.b6c96b6d.svg": "/moose_site/static/media/Moose7.b6c96b6d.svg"
+    "main.css": "/moose-site/static/css/main.bf494843.chunk.css",
+    "main.js": "/moose-site/static/js/main.a3f27cbb.chunk.js",
+    "main.js.map": "/moose-site/static/js/main.a3f27cbb.chunk.js.map",
+    "runtime-main.js": "/moose-site/static/js/runtime-main.655fb713.js",
+    "runtime-main.js.map": "/moose-site/static/js/runtime-main.655fb713.js.map",
+    "static/js/2.abeedeb9.chunk.js": "/moose-site/static/js/2.abeedeb9.chunk.js",
+    "static/js/2.abeedeb9.chunk.js.map": "/moose-site/static/js/2.abeedeb9.chunk.js.map",
+    "static/js/3.7dc7e8b9.chunk.js": "/moose-site/static/js/3.7dc7e8b9.chunk.js",
+    "static/js/3.7dc7e8b9.chunk.js.map": "/moose-site/static/js/3.7dc7e8b9.chunk.js.map",
+    "index.html": "/moose-site/index.html",
+    "static/css/main.bf494843.chunk.css.map": "/moose-site/static/css/main.bf494843.chunk.css.map",
+    "static/js/2.abeedeb9.chunk.js.LICENSE.txt": "/moose-site/static/js/2.abeedeb9.chunk.js.LICENSE.txt",
+    "static/media/Moose7.b6c96b6d.svg": "/moose-site/static/media/Moose7.b6c96b6d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cffbeba3.js",
+    "static/js/runtime-main.655fb713.js",
     "static/js/2.abeedeb9.chunk.js",
     "static/css/main.bf494843.chunk.css",
     "static/js/main.a3f27cbb.chunk.js"
